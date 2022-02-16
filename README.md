@@ -12,7 +12,7 @@ I modified the code to make the system work with
 * ultra DMX Micro: this is a dmx controler that has no proper documentation
   - https://dmxking.com/usbdmx/ultradmxmicro
   - This emulates this controller [ENTTEC DMX USB Pro 512-Ch USB DMX Interface](https://www.sweetwater.com/store/detail/DMXUSBPro--enttec-dmx-usb-pro-512-ch-usb-dmx-interface?mrkgadid=3301332569&mrkgcl=28&mrkgen=gpla&mrkgbflag=0&mrkgcat=livesound&lighting&acctid=21700000001645388&dskeywordid=92700046938524260&lid=92700046938524260&ds_s_kwgid=58700005283381190&ds_s_inventory_feed_id=97700000007215323&dsproductgroupid=468822162389&product_id=DMXUSBPro&prodctry=US&prodlang=en&channel=online&storeid=&device=c&network=g&matchtype=&adpos=largenumber&locationid=9005925&creative=280136035561&targetid=pla-468822162389&campaignid=1465475237&awsearchcpc=1&gclsrc=ds&gclsrc=ds)
-  - Link is this one https://www.enttec.com/product/lighting-communication-protocols/dmx512/dmx-usb-interface/
+  - [Enttec Website link](https://www.enttec.com/product/lighting-communication-protocols/dmx512/dmx-usb-interface/)
 
 Highly suggested you download the follwoing firmware [Pro Utility 2.2](https://dol2kh495zr52.cloudfront.net/download/dmx_usb_pro/pro_utility_setup.exe)
 ## What are the edits
@@ -27,7 +27,7 @@ This is the DMX code in C#. Thank you Bryan Maher
 [ENTTEC DMX USB Pro 512-Ch USB DMX Interface](https://www.sweetwater.com/store/detail/DMXUSBPro--enttec-dmx-usb-pro-512-ch-usb-dmx-interface?mrkgadid=3301332569&mrkgcl=28&mrkgen=gpla&mrkgbflag=0&mrkgcat=livesound&lighting&acctid=21700000001645388&dskeywordid=92700046938524260&lid=92700046938524260&ds_s_kwgid=58700005283381190&ds_s_inventory_feed_id=97700000007215323&dsproductgroupid=468822162389&product_id=DMXUSBPro&prodctry=US&prodlang=en&channel=online&storeid=&device=c&network=g&matchtype=&adpos=largenumber&locationid=9005925&creative=280136035561&targetid=pla-468822162389&campaignid=1465475237&awsearchcpc=1&gclsrc=ds&gclsrc=ds)
 
 
-[The C# project that this was edited based on] (https://wiki.etc.cmu.edu/images/1/13/DMX.zip)
+[The C# project that this was edited based on](https://wiki.etc.cmu.edu/images/1/13/DMX.zip)
 
 
 
